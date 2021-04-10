@@ -19,9 +19,11 @@ selanjutnya menambahkan deklarasi inline CSS pada tag sebagai berikut: dan refre
 
 ![f](https://user-images.githubusercontent.com/56399268/114259820-c6b8b700-995b-11eb-852c-5bb58cc1cb73.PNG)
 
-kemudian buatlah file baru dengan nama style_eksternal.css dan buat deklarasinya seperti berikut: dan juga tambahkan tag <link> untuk merujuk fil css sebagai berikut.
+kemudian buatlah file baru dengan nama style_eksternal.css dan buat deklarasinya seperti berikut: dan juga tambahkan tag <link> untuk merujuk file css sebagai berikut.
 
 ![g](https://user-images.githubusercontent.com/56399268/114259860-18614180-995c-11eb-8221-da3ce9facfe2.PNG)
+
+![z](https://user-images.githubusercontent.com/56399268/114261229-5cf0db00-9964-11eb-848e-9a221a6305fb.PNG)
 
 refresh kembali pada browser untuk melihat hasilnya
 
